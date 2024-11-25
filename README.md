@@ -11,7 +11,7 @@ Hi there! I’m **A4RMIN**, a junior developer passionate about building apps an
 - 💼 Actively learning **GoLang** to enhance backend capabilities.  
 
 ---
-
+<!--
 ## 🚀 Projects  
 
 ### 1. **Dot Duel - AI Showdown**  
@@ -102,9 +102,9 @@ A personal portfolio to showcase my skills, projects, and contact details.
 - **Portfolio:** [Link to Portfolio](https://example.com/portfolio)  
 - **GitHub:** [A4RMIN GitHub Profile](https://github.com/A4RMIN)  
 - **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/A4RMIN)  
+-->
 
-<!--
-**A4rmin/A4rmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**A4rmin/A4rmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Hi there 👋
 Here are some ideas to get you started:
 
