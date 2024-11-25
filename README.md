@@ -1,4 +1,3 @@
-## Hi there 👋
 # A4RMIN
 
 Hi there! I’m **A4RMIN**, a junior developer passionate about building apps and web solutions powered by AI and machine learning. My goal is to create impactful, scalable, and user-friendly applications that solve real-world problems.  
@@ -106,7 +105,7 @@ A personal portfolio to showcase my skills, projects, and contact details.
 
 <!--
 **A4rmin/A4rmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
