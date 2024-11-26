@@ -1,5 +1,20 @@
 # A4RMIN
 
+---
+'      ___     _  _    .______      .___  ___.  __  .__   __.         
+'     /   \   | || |   |   _  \     |   \/   | |  | |  \ |  |         
+'    /  ^  \  | || |_  |  |_)  |    |  \  /  | |  | |   \|  |         
+'   /  /_\  \ |__   _| |      /     |  |\/|  | |  | |  . `  |         
+'  /  _____  \   | |   |  |\  \----.|  |  |  | |  | |  |\   |         
+' /__/     \__\  |_|   | _| `._____||__|  |__| |__| |__| \__|         
+'                                                                     
+'   ______   ______    _______   __  .__   __.   _______      _______.
+'  /      | /  __  \  |       \ |  | |  \ |  |  /  _____|    /       |
+' |  ,----'|  |  |  | |  .--.  ||  | |   \|  | |  |  __     |   (----`
+' |  |     |  |  |  | |  |  |  ||  | |  . `  | |  | |_ |     \   \    
+' |  `----.|  `--'  | |  '--'  ||  | |  |\   | |  |__| | .----)   |   
+'  \______| \______/  |_______/ |__| |__| \__|  \______| |_______/    
+---
 Hi there! I’m **A4RMIN**, a junior developer passionate about building apps and web solutions powered by AI and machine learning. My goal is to create impactful, scalable, and user-friendly applications that solve real-world problems.  
 
 ---
